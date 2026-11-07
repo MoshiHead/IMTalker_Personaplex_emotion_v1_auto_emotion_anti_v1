@@ -1,0 +1,2 @@
+# IMTalker_Personaplex_emotion_v1_auto_emotion_anti_v1
+using anti try to add automatic emotion detect in IMTalker_Personaplex_emotion_v1 repo
